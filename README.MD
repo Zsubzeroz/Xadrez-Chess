@@ -12,27 +12,32 @@ O xadrez é um jogo de tabuleiro estratégico para dois jogadores, onde cada um 
 
 ## Funcionalidades do Projeto
 - [x] Tabuleiro de xadrez com interface gráfica interativa
-- [x]Representação visual das peças de xadrez
-Movimentação de peças de acordo com as regras do xadrez
-Validação de movimentos legais
-Detecção de xeque-mate e outras situações especiais (xeque, empate, etc.)
-Sistema de turnos para ambos os jogadores
-Possibilidade de salvar e carregar jogos
-Interface de usuário intuitiva e fácil de usar
+- [x] Representação visual das peças de xadrez
+- [x] Movimentação de peças de acordo com as regras do xadrez
+- [x] Validação de movimentos legais
+- [x] Detecção de xeque-mate e outras situações especiais (xeque, empate, etc.)
+- [x] Sistema de turnos para ambos os jogadores
+- [x] Possibilidade de salvar e carregar jogos
+- [x] Interface de usuário intuitiva e fácil de usar
 
 ## Layout
 - CSS
+- JavaScript
 <!--"Imagens"-->
 
 ## Demonstração
 ![Link demonstraçãoo](/assets/xadrez.gif)
 
 ## Tecnologias utilizadas
-- Java Script
+- JavaScript
 - CSS
 - HTML
+- Framework
 
-<!--## Como rodar este o projeto?-->
+## Como rodar este o projeto?
+- Clone o repositório do projeto.
+- Instale as dependências do projeto usando o comando npm install (ou yarn).
+- Execute o projeto com o comando npm start (ou yarn start).
 
 <!--## Autores
 <img> -->
