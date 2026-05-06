@@ -1,6 +1,6 @@
 # ♟️ Chess Engine Simulator
 
-![Chess Engine Preview](./assets/preview.png)
+[![Chess Engine Preview](./assets/preview.png)](https://zsubzeroz.github.io/Xadrez-Chess/)
 
 Este projeto é um simulador de xadrez completo, desenvolvido com foco em **Lógica Pura**, **Estruturas de Dados Eficientes** e **Programação Orientada a Objetos (POO)**. Mais do que um simples jogo, este repositório demonstra a capacidade de traduzir regras complexas do mundo real em um sistema de software robusto e escalável.
 
